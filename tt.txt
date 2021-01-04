@@ -13,3 +13,10 @@ G
 FG
 A
 G
+cc
+c
+ccc
+
+cc
+
+c
